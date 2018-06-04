@@ -1825,64 +1825,64 @@ body {
   text-align: right;
   color: #232323;
 }
-.cid-qU1s4aITiq {
+.cid-qU1TABKSR2 {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/background-wallpapers-wallpaper-1280x720.jpg");
 }
 @media (min-width: 992px) {
-  .cid-qU1s4aITiq .mbr-figure {
+  .cid-qU1TABKSR2 .mbr-figure {
     padding-right: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-qU1s4aITiq .mbr-figure {
+  .cid-qU1TABKSR2 .mbr-figure {
     padding-bottom: 3rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-qU1s4aITiq .mbr-text {
+  .cid-qU1TABKSR2 .mbr-text {
     text-align: center;
   }
 }
-.cid-qU1s4aITiq .mbr-text,
-.cid-qU1s4aITiq .mbr-section-btn {
+.cid-qU1TABKSR2 H1 {
   text-align: right;
 }
-.cid-qU1s4aITiq H1 {
+.cid-qU1TABKSR2 .mbr-text,
+.cid-qU1TABKSR2 .mbr-section-btn {
   text-align: right;
 }
-.cid-qU1sXDW7lV {
+.cid-qU1ShALWgI {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/super-hero-whatsapp-background-by-x-ama-d8fr7iz-1024x576.jpg");
 }
-.cid-qU1sXDW7lV .media-container-row {
+.cid-qU1ShALWgI .media-container-row {
   flex-direction: row-reverse;
 }
 @media (min-width: 992px) {
-  .cid-qU1sXDW7lV .mbr-figure {
+  .cid-qU1ShALWgI .mbr-figure {
     padding-right: 4rem;
     padding-right: 0;
     padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-qU1sXDW7lV .mbr-figure {
+  .cid-qU1ShALWgI .mbr-figure {
     padding-bottom: 3rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-qU1sXDW7lV .mbr-text {
+  .cid-qU1ShALWgI .mbr-text {
     text-align: center;
   }
 }
-.cid-qU1sXDW7lV .mbr-text,
-.cid-qU1sXDW7lV .mbr-section-btn DIV {
-  text-align: right;
+.cid-qU1ShALWgI H1 {
   color: #232323;
+  text-align: right;
 }
-.cid-qU1sXDW7lV H1 {
+.cid-qU1ShALWgI .mbr-text,
+.cid-qU1ShALWgI .mbr-section-btn DIV {
   text-align: right;
   color: #232323;
 }
@@ -2070,4 +2070,9 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qU1UpWZ9PA {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #2e2e2e;
 }
