@@ -1893,7 +1893,7 @@ body {
 }
 .cid-qU8uXe3PuW .mbr-text,
 .cid-qU8uXe3PuW .mbr-section-btn DIV {
-  color: #232323;
+  color: #000000;
 }
 .cid-qU1gkm6BeP {
   padding-top: 0px;
@@ -2015,8 +2015,8 @@ body {
   color: #232323;
 }
 .cid-qU8Nk2a3bE {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/background-wallpapers-wallpaper-1280x720.jpg");
 }
 .cid-qU8Jz4FmCW {
@@ -2047,6 +2047,7 @@ body {
 }
 .cid-qU8Jz4FmCW LABEL {
   text-align: right;
+  color: #ffffff;
 }
 .cid-qU8Jz4FmCW H2 {
   color: #ffffff;
