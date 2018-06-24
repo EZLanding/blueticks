@@ -1963,7 +1963,7 @@ body {
 .cid-qVja9bftnY {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/super-hero-whatsapp-background-by-x-ama-d8fr7iz-1024x576.jpg");
   position: relative;
 }
 .cid-qVja9bftnY p {
@@ -2003,6 +2003,13 @@ body {
 }
 .cid-qVja9bftnY H4 {
   text-align: center;
+}
+.cid-qVja9bftnY .panel-text DIV {
+  text-align: center;
+}
+.cid-qVja9bftnY .panel-text {
+  text-align: center;
+  color: #000000;
 }
 .cid-qU1v6FNC3N {
   padding-top: 90px;
