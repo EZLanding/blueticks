@@ -1960,6 +1960,50 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-qVja9bftnY {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+  position: relative;
+}
+.cid-qVja9bftnY p {
+  color: #767676;
+}
+.cid-qVja9bftnY .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-qVja9bftnY .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-qVja9bftnY .card .card-header a.panel-title {
+  margin-bottom: 0;
+  margin-top: -1px;
+  font-weight: 500;
+  font-style: normal;
+  display: block;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-qVja9bftnY .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-qVja9bftnY .card .card-header a.panel-title h4 {
+  border: 1px solid #dfdfdf;
+  padding: 1.3rem 2rem;
+  margin-bottom: 0;
+}
+.cid-qVja9bftnY .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-qVja9bftnY H2 {
+  text-align: center;
+}
+.cid-qVja9bftnY H4 {
+  text-align: center;
+}
 .cid-qU1v6FNC3N {
   padding-top: 90px;
   padding-bottom: 90px;
