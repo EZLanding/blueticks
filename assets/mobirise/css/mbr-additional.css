@@ -1349,24 +1349,24 @@ section.lazy-placeholder:after {
   padding-bottom: 15px;
   background-color: #232323;
 }
-.cid-s3ZUoujg0C {
+.cid-s3ZYghsMCh {
+  background: #ffffff;
   padding-top: 0px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
+  padding-bottom: 0px;
 }
-.cid-s3ZUoujg0C .mbr-figure {
-  margin: 0 auto;
+.cid-s3ZYghsMCh .image-block {
+  margin: auto;
+}
+.cid-s3ZYghsMCh figcaption {
+  position: relative;
+}
+.cid-s3ZYghsMCh figcaption div {
+  position: absolute;
+  bottom: 0;
   width: 100%;
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
 }
-.cid-s3ZUoujg0C .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-s3ZUoujg0C .mbr-figure img {
+@media (max-width: 768px) {
+  .cid-s3ZYghsMCh .image-block {
     width: 100% !important;
   }
 }
