@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SafeSpot",
-    "currentPage": "page1.html",
+    "currentPage": "intro.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -978,7 +978,7 @@
         }
       ]
     },
-    "page1.html": {
+    "intro.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "intro",
