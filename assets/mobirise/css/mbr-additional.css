@@ -1349,24 +1349,25 @@ section.lazy-placeholder:after {
   padding-bottom: 15px;
   background-color: #2e2e2e;
 }
-.cid-s3ZYghsMCh {
-  background: #2e2e2e;
-  background: linear-gradient(0deg, #c1c1c1, #2e2e2e);
+.cid-s4lcx8fGn6 {
+  background: #cccccc;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #ffffff, #cccccc);
 }
-.cid-s3ZYghsMCh .image-block {
+.cid-s4lcx8fGn6 .image-block {
   margin: auto;
-  width: 100% !important;
 }
-.cid-s3ZYghsMCh figcaption {
+.cid-s4lcx8fGn6 figcaption {
   position: relative;
 }
-.cid-s3ZYghsMCh figcaption div {
+.cid-s4lcx8fGn6 figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-s3ZYghsMCh .image-block {
+  .cid-s4lcx8fGn6 .image-block {
     width: 100% !important;
   }
 }
