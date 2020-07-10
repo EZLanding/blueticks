@@ -1350,13 +1350,12 @@ section.lazy-placeholder:after {
   background-color: #2e2e2e;
 }
 .cid-s3ZYghsMCh {
-  background: #ffffff;
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background: linear-gradient(0deg, #c1c1c1, #ffffff);
+  background: #2e2e2e;
+  background: linear-gradient(0deg, #c1c1c1, #2e2e2e);
 }
 .cid-s3ZYghsMCh .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-s3ZYghsMCh figcaption {
   position: relative;
